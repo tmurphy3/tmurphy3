@@ -1,16 +1,12 @@
-### Hi there 👋
+<h4 align='center'>
+  Welcome! My name is Tim Murphy, I'm a full Stack Developer with a passion for problem solving
+</h4>
 
-<!--
-**tmurphy3/tmurphy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="https://www.linkedin.com/in/murphy-timothy/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:tmurphy.swe@gmail.com"/>
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a> 
+</p>
