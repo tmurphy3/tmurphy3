@@ -1,5 +1,5 @@
 <h4 align='center'>
-  Welcome! My name is Tim Murphy, I'm a full Stack Developer with a passion for problem solving
+  Welcome! My name is Tim Murphy, I'm a full stack developer with a passion for problem solving
 </h4>
 
 <p align='center'>
